@@ -1,0 +1,26 @@
+@media screen and (max-width: 600px) {
+    
+    .container {
+        width: 300px;
+        border-radius: 15px;
+    }
+
+    .container p {
+        font-size:15px;
+    }
+
+    .btn-container button {
+        width: 50px;
+        height: 50px;
+    }
+
+    #submit-btn {
+        padding: 20px 0;
+        border-radius: 30px;
+        margin-bottom: 20px;
+    }
+
+    .thank-you-state-container .selected-rating {
+        width: 60%;
+    }
+}
